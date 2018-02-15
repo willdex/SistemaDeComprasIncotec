@@ -153,20 +153,20 @@ table[class=hide], img[class=hide], td[class=hide] {
 <center class="wrapper" style="width:100%;table-layout:fixed;-webkit-text-size-adjust:100%;-ms-text-size-adjust:100%;background-color:#ececec;">
   <table width="100%" cellpadding="0" cellspacing="0" border="0" style="background-color:#ececec;" bgcolor="#ececec;">
     <tr>
-      <td width="100%"><div class="webkit" style="max-width:600px;Margin:0 auto;"> 
-          
+      <td width="100%"><div class="webkit" style="max-width:600px;Margin:0 auto;">
+
           <!--[if (gte mso 9)|(IE)]>
 
             <table width="600" align="center" cellpadding="0" cellspacing="0" border="0" style="border-spacing:0" >
               <tr>
                 <td style="padding-top:0;padding-bottom:0;padding-right:0;padding-left:0;" >
-                <![endif]--> 
-          
+                <![endif]-->
+
           <!-- ======= start main body ======= -->
           <table class="outer" align="center" cellpadding="0" cellspacing="0" border="0" style="border-spacing:0;Margin:0 auto;width:100%;max-width:600px;">
             <tr>
               <td style="padding-top:0;padding-bottom:0;padding-right:0;padding-left:0;"><!-- ======= start header ======= -->
-                
+
                 <table border="0" width="100%" cellpadding="0" cellspacing="0"  >
                   <tr>
                     <td><table style="width:100%;" cellpadding="0" cellspacing="0" border="0">
@@ -209,7 +209,7 @@ table[class=hide], img[class=hide], td[class=hide] {
                                   <tbody>
                                     <tr>
                                       <td class="one-column" style="padding-top:0;padding-bottom:0;padding-right:0;padding-left:0;" bgcolor="#FFFFFF"><!-- ======= start header ======= -->
-                                        
+
                                         <table cellpadding="0" cellspacing="0" border="0" width="100%">
                                           <tr>
                                             <td class="two-column" style="padding-top:0;padding-bottom:0;padding-right:0;padding-left:0;text-align:center;font-size:0;"><!--[if (gte mso 9)|(IE)]>
@@ -217,19 +217,19 @@ table[class=hide], img[class=hide], td[class=hide] {
                           <tr>
                           <td width="20%" valign="top" style="padding-top:0;padding-bottom:0;padding-right:0;padding-left:0;" >
                           <![endif]-->
-                                              
+
                                               <div class="column" style="width:100%;max-width:280px;display:inline-block;vertical-align:top;">
                                                 <table class="contents" style="border-spacing:0; width:100%"  bgcolor="#ffffff" >
                                                   <tr>
-                                                    <td style="padding-top:0;padding-bottom:0;padding-right:0;padding-left:0;" align="left"><a href="https://www.incotec.com.bo" target="_blank"><img src="http://licitaciones.incotec.com.bo/images/incoteclogo.png" width="" alt="" style="border-width:0; max-width:280px;height:140px; display:block" /></a></td>
+                                                    <td style="padding-top:0;padding-bottom:0;padding-right:0;padding-left:0;" align="left"><a href="https://www.incotec.com.bo" target="_blank"><img src="https://licitaciones.incotec.com.bo/images/incoteclogo.png" width="" alt="" style="border-width:0; max-width:280px;height:140px; display:block" /></a></td>
                                                   </tr>
                                                 </table>
                                               </div>
-                                              
+
                                               <!--[if (gte mso 9)|(IE)]>
                           </td><td width="80%" valign="top" style="padding-top:0;padding-bottom:0;padding-right:0;padding-left:0;" >
                           <![endif]-->
-                                              
+
                                               <div class="column" style="width:100%;max-width:415px;display:inline-block;vertical-align:top;">
                                                 <table width="100%" style="border-spacing:0" bgcolor="#ffffff">
                                                   <tr>
@@ -248,7 +248,7 @@ table[class=hide], img[class=hide], td[class=hide] {
                                                   </tr>
                                                 </table>
                                               </div>
-                                              
+
                                               <!--[if (gte mso 9)|(IE)]>
                           </td>
                           </tr>
@@ -275,27 +275,31 @@ table[class=hide], img[class=hide], td[class=hide] {
                       </table></td>
                   </tr>
                 </table>
-                
-                <!-- ======= end header ======= --> 
-                
-                <!-- ======= start hero image ======= --><!-- ======= end hero image ======= --> 
-                
+
+                <!-- ======= end header ======= -->
+
+                <!-- ======= start hero image ======= --><!-- ======= end hero image ======= -->
+
                 <!-- ======= start hero article ======= -->
-                
+
                 <table class="one-column" border="0" cellpadding="0" cellspacing="0" width="100%" style="border-spacing:0" bgcolor="#FFFFFF">
                   <tr>
-                    <td align="center" style="padding:0px 40px 0px 40px"><p style="color:#5b5f65; font-size:25px; text-align:center; font-family: Verdana, Geneva, sans-serif"><strong> Nueva propuesta de compra. </strong> </p>
-                      <p style="color:#5b5f65; font-size:16px; text-align:left; font-family: Verdana, Geneva, sans-serif">Estimado Proveedor, informarle que actualmente se encuentra publica una adquisición en tu rubro. </p>
+                    <td align="center" style="padding:0px 40px 0px 40px"><p style="color:#5b5f65; font-size:25px; text-align:center; font-family: Verdana, Geneva, sans-serif"><p style="color:#0074B8; font-size:30px; text-align:center; font-family: Verdana, Geneva, sans-serif"><strong> SISTEMA DE COMPRAS INCOTEC </strong> </p><p style="color:#5b5f65; font-size:24px; text-align:center; font-family: Verdana, Geneva, sans-serif"><strong> Solicitud de Propuesta </strong> </p>
+                      <p style="color:#5b5f65; font-size:16px; text-align:left; font-family: Verdana, Geneva, sans-serif">Estimado Proveedor, le informamos que actualmente se encuentra publicada una Solicitud de Propuesta en su rubro. </p>
 
                        <p style="color:#5b5f65; font-size:16px; text-align:left; font-family: Verdana, Geneva, sans-serif">Propuesta: <b><?php echo $txttitulo; ?></b></p>
 
-                      <p style="color:#5b5f65; font-size:16px; text-align:left; font-family: Verdana, Geneva, sans-serif">Para descargar la propuesta de adquisición por favor ingresa al "Sistema de Compras de Incotec" con tus datos de acceso, y dirígete a la sección de Convocatorias Activas y descarga la Solicitud de Compra. </p>
+                      <p style="color:#5b5f65; font-size:16px; text-align:left; font-family: Verdana, Geneva, sans-serif">Para descargar la solicitud, ingresar al <a href="https://licitaciones.incotec.com.bo"> “Sistema de Compras Incotec”</a> con sus datos de acceso y dirigirse a la sección de Convocatorias Activas y descargar la Solicitud de Propuesta. </p>
 
-                      <p style="color:#5b5f65; font-size:16px; text-align:left; font-family: Verdana, Geneva, sans-serif">Adjunta tu proforma en tu correo electrónico y envíala a <a href="mailto:compras@incotec.cc">compras@incotec.cc</a>  </p>
+                      <p style="color:#5b5f65; font-size:16px; text-align:left; font-family: Verdana, Geneva, sans-serif">Si tiene problemas al usar el <a href="https://licitaciones.incotec.com.bo"> “Sistema de Compras Incotec”</a>, ingresar al siguiente <a href="https://licitaciones.incotec.com.bo/guia-rapida"> link</a>, para acceder a la guía rápida de uso del “Sistema de Compras Incotec”. </p>
+                      <p style="color:#5b5f65; font-size:16px; text-align:left; font-family: Verdana, Geneva, sans-serif"><a href="https://licitaciones.incotec.com.bo/guia-rapida">Guía Rápida de Uso</a></p>
 
-                      
+
+                      <p style="color:#5b5f65; font-size:16px; text-align:left; font-family: Verdana, Geneva, sans-serif">Adjunte su Propuesta en su correo electrónico y enviar a  <a href="mailto:compras@incotec.cc">compras@incotec.cc</a>  </p>
+
+
                       <!-- START BUTTON -->
-                      
+
                      <center>
                         <table cellpadding="0" cellspacing="0" border="0" width="100%">
                           <tr>
@@ -309,7 +313,7 @@ table[class=hide], img[class=hide], td[class=hide] {
                                   <tr>
                                     <td align="center"><table border="0" cellpadding="0" cellspacing="0" style="Margin:0 auto;">
                                         <tr>
-                                          <td width="250" height="60" align="center" bgcolor="#0074B8"><a href="http://licitaciones.incotec.com.bo" style="width:250; display:block; text-decoration:none; border:0; text-align:center; font-weight:bold;font-size:18px; font-family: Arial, sans-serif; color: #ffffff; background:#0074B8" class="button_link" target="_blank">Ver Propuesta</a></td>
+                                          <td width="250" height="60" align="center" bgcolor="#0074B8"><a href="https://licitaciones.incotec.com.bo/convocatoriasactivas" style="width:250; display:block; text-decoration:none; border:0; text-align:center; font-weight:bold;font-size:18px; font-family: Arial, sans-serif; color: #ffffff; background:#0074B8" class="button_link" target="_blank">Ver Propuesta</a></td>
                                         </tr>
                                       </table></td>
                                   </tr>
@@ -317,24 +321,24 @@ table[class=hide], img[class=hide], td[class=hide] {
                               </table></td>
                           </tr>
                         </table>
-                      </center>    
+                      </center>
 
-                      
+
                       <br><br><br>
 
                        <p style="color:#5b5f65; font-size:15px; text-align:left; font-family: Verdana, Geneva, sans-serif">
-                      Tus datos son generados de manera automática por nuestro Sistema, Si necesitas recuperar tus datos de acceso por favor contáctate con <a href="mailto:compras@incotec.cc"> compras@incotec.cc </a></p>
+                      Sus datos son generados de manera automática por nuestro sistema, si necesita recuperar sus datos de acceso contactar con  <a href="mailto:compras@incotec.cc"> compras@incotec.cc </a></p>
 
 
-                      
+
                       <!-- END BUTTON --></td>
                   </tr>
                 </table>
-                
-                <!-- ======= end hero article ======= -->  
-                
+
+                <!-- ======= end hero article ======= -->
+
                 <!-- ======= start footer ======= -->
-                
+
                <table width="100%" border="0" cellspacing="0" cellpadding="0">
   <tr>
     <td><table width="100%" cellpadding="0" cellspacing="0" border="0"  bgcolor="#1f3ca6">
@@ -350,9 +354,9 @@ table[class=hide], img[class=hide], td[class=hide] {
       <tr>
         <td align="center" bgcolor="#1f3ca6" class="one-column" style="padding-top:0;padding-bottom:0;padding-right:0;padding-left:0;"><table width="150" border="0" cellspacing="0" cellpadding="0">
           <tr>
-            <td width="33" align="center"><a href="https://www.facebook.com/incotec.bolivia" target="_blank"><img src="http://licitaciones.incotec.com.bo/images/facebooklogo.png" alt="facebook" width="32" height="32" border="0"/></a></td>
-            <td width="34" align="center"><a href="https://twitter.com/IncotecSrl" target="_blank"><img src="http://licitaciones.incotec.com.bo/images/twitterlogo.png" alt="twitter" width="32" height="32" border="0"/></a></td>
-            <td width="33" align="center"><a href="https://www.linkedin.com/company/incotec-sa" target="_blank"><img src="http://licitaciones.incotec.com.bo/images/linkedinlogo.png" alt="linkedin" width="32" height="32" border="0"/></a></td>
+            <td width="33" align="center"><a href="https://www.facebook.com/incotec.bolivia" target="_blank"><img src="https://licitaciones.incotec.com.bo/images/facebooklogo.png" alt="facebook" width="32" height="32" border="0"/></a></td>
+            <td width="34" align="center"><a href="https://twitter.com/IncotecSrl" target="_blank"><img src="https://licitaciones.incotec.com.bo/images/twitterlogo.png" alt="twitter" width="32" height="32" border="0"/></a></td>
+            <td width="33" align="center"><a href="https://www.linkedin.com/company/incotec-sa" target="_blank"><img src="https://licitaciones.incotec.com.bo/images/linkedinlogo.png" alt="linkedin" width="32" height="32" border="0"/></a></td>
           </tr>
         </table></td>
       </tr>
@@ -371,7 +375,7 @@ table[class=hide], img[class=hide], td[class=hide] {
       </table></td>
   </tr>
   <tr>
-    <td><table width="100%" cellpadding="0" cellspacing="0" border="0"> 
+    <td><table width="100%" cellpadding="0" cellspacing="0" border="0">
       <tr>
         <td height="6" bgcolor="#1f3ca6" class="contents" style="width:100%; border-bottom-left-radius:10px; border-bottom-right-radius:10px"></td>
       </tr>
@@ -389,7 +393,7 @@ table[class=hide], img[class=hide], td[class=hide] {
           </td>
         </tr>
       </table>
-      <![endif]--> 
+      <![endif]-->
         </div></td>
     </tr>
   </table>
